@@ -1,0 +1,13 @@
+com\mycompany\grupostrabalho\MembroDto.class
+com\mycompany\grupostrabalho\Relatorios.class
+com\mycompany\grupostrabalho\Util.class
+com\mycompany\grupostrabalho\Atuacao.class
+com\mycompany\grupostrabalho\CargaDadosLocal.class
+com\mycompany\grupostrabalho\Endereco.class
+com\mycompany\grupostrabalho\Pessoa.class
+com\mycompany\grupostrabalho\Grupo.class
+com\mycompany\grupostrabalho\Telefone.class
+com\mycompany\grupostrabalho\PessoaBean.class
+com\mycompany\grupostrabalho\PessoaBeanLocal.class
+com\mycompany\grupostrabalho\CargaDados.class
+com\mycompany\grupostrabalho\TipoLogradouro.class
